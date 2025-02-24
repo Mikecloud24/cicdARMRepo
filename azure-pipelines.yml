@@ -20,6 +20,6 @@ steps:
     location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Mikecloud24/cicdARMRepo/refs/heads/main/create_web_app/azuredeploy.json'
-    overrideParameters: '-projectName cicdARM-ProjectPipeline'
+    overrideParameters: '-projectName cicdARMPro'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
