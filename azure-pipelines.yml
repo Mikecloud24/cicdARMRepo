@@ -14,7 +14,7 @@ steps:
   inputs:
     deploymentScope: 'Resource Group'
     azureResourceManagerConnection: 'ARMPipeline-connect'
-    subscriptionId: '360e3df8-125e-4f0e-9f6e-8b3cd87d9d88'
+    subscriptionId: ''
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'ARMPipeline-rg'
     location: 'Central US'
